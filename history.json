@@ -1,0 +1,27 @@
+[
+  {
+    "version": "1.2.0",
+    "build": 100,
+    "date": "2026-02-21",
+    "title": "Обновление интерфейса",
+    "description": "Новые экраны и улучшенная навигация",
+
+    "features": [
+      {
+        "image": "https://raw.githubusercontent.com/SilanHub/updates/main/updates/images/1.0.0/feature-1.png",
+        "title": "Новый экран профиля",
+        "subtitle": "Быстрый доступ к настройкам и статистике"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/SilanHub/updates/main/updates/images/1.0.0/feature-2.png",
+        "title": "Темная тема",
+        "subtitle": "Меньше нагрузки на глаза ночью"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/SilanHub/updates/main/updates/images/1.0.0/feature-3.png",
+        "title": "Оптимизация",
+        "subtitle": "Приложение запускается быстрее"
+      }
+    ]
+  }
+]
