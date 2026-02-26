@@ -1,1 +1,9 @@
-
+{
+  "versions": [
+    {
+      "version": "1.0.0",
+      "type": "stable",
+      "changelog_url": "https://your-site.com/changelog/1.0.0",
+    }
+  ]
+}
