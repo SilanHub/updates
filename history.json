@@ -3,7 +3,7 @@
     {
       "version": "1.0.0",
       "type": "stable",
-      "changelog_url": "https://your-site.com/changelog/1.0.0",
+      "changelog_url": "https://raw.githubusercontent.com/SilanHub/updates/refs/heads/main/versions/1.0.0/version-info.json",
     }
   ]
 }
