@@ -2,8 +2,28 @@
   "versions": [
     {
       "version": "1.0.0",
-      "type": "stable",
-      "changelog_url": "https://raw.githubusercontent.com/SilanHub/updates/refs/heads/main/versions/1.0.0/version-info.json",
+      "build": 100,
+      "date": "2026-02-01",
+      "news-en": "Initial release!",
+      "notice-en": "First public version of the application",
+      "news-ru": "Первый релиз!",
+      "notice-ru": "Первая публичная версия приложения",
+      "events": [
+        {
+          "type": "release",
+          "text-en": "Application launched",
+          "text-ru": "Приложение запущено"
+        }
+      ],
+      "features": [
+        {
+          "image": "resources/version info/1.0.0/screenshot1.png",
+          "news-en": "Main screen",
+          "notice-en": "Clean and simple interface",
+          "news-ru": "Главный экран",
+          "notice-ru": "Чистый и простой интерфейс"
+        }
+      ],
     }
   ]
 }
